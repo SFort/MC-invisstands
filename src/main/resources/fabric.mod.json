@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "invisstands",
+  "version": "${version}",
+
+  "name": "Invisible Armor Stands",
+  "description": "Hold Shift to make Armor Stands Invisible",
+  "authors": [
+    "SFort"
+  ],
+  "contact": {
+    "sources": "https://github.com/SFort/MC-invisstands"
+  },
+
+  "license": "MIT",
+
+  "environment": "*",
+  "mixins": [
+    "invisstands.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": "*"
+  }
+}

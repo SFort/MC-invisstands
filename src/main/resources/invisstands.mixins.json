@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "sf.ssf.sfort.invisstands.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "FrameEntity"
+  ],
+  "client": [
+    "FrameRender"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
