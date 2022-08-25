@@ -1,4 +1,1 @@
-# MC-Invis Stands
-
-Shift punching armor stands toggles visibility  
-Empty armor stands will always be visible
+Now a part of https://github.com/SFort/MC-invisframes
